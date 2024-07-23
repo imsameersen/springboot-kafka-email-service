@@ -37,7 +37,7 @@ A Spring Boot application integrating with Apache Kafka to send email notificati
     spring.mail.host=smtp.example.com
     spring.mail.port=587
     spring.mail.username=your_email@example.com
-    spring.mail.password=your_password {it will be your App Password which you can create in App passwords in Google Account Setting}
+    spring.mail.password=your_password {it will be your App Password which you can create in App Passwords in Google Account Setting}
     spring.mail.properties.mail.smtp.auth=true
     spring.mail.properties.mail.smtp.starttls.enable=true
 
